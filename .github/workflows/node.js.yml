@@ -22,6 +22,10 @@ jobs:
           npm run build
         env:
           NODE_OPTIONS: "--openssl-legacy-provider"
+      - uses: actions/upload-artifacts@master
+        with:
+          name: webpack artifact
+          path: public/
 
   test:
     runs-on: ubuntu-latest
