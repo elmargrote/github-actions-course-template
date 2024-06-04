@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.10](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.9...v0.1.10) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 removed token for test. ([b0ac6cf](https://github.com/elmargrote/github-actions-course-template/commit/b0ac6cf7ab588f3efe7e6357af55c994ffc51bad))
+
 ## [0.1.9](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.8...v0.1.9) (2024-06-04)
 
 
