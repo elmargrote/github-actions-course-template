@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.1.12](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.11...v0.1.12) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 changed index.html ([3248af8](https://github.com/elmargrote/github-actions-course-template/commit/3248af810e66d5e74710577a7f14736e6d8f5013))
+* ADMIMIN-4321 move files to root again. ([0006a10](https://github.com/elmargrote/github-actions-course-template/commit/0006a101d4c86c4169727e76e0c8a364dd81f25e))
+* ADMIMIN-4321 move files to root again. ([29f35d5](https://github.com/elmargrote/github-actions-course-template/commit/29f35d5b818a470d148550e459fbf434b69e20aa))
+* ADMIMIN-4321 moved release files to .github/workflows folder. ([1b95641](https://github.com/elmargrote/github-actions-course-template/commit/1b95641debd804a748ca5fad175cfa73281280a6))
+* ADMIMIN-4321 moved release files to .github/workflows folder. ([4c6d35d](https://github.com/elmargrote/github-actions-course-template/commit/4c6d35dc3074749c220aaf33665164fe8057e899))
+
 ## [0.1.11](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.10...v0.1.11) (2024-06-04)
 
 
