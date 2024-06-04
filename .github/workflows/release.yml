@@ -23,6 +23,3 @@ jobs:
       - name: release-please
         uses: googleapis/release-please-action@v4
         id: release
-        with:
-          manifest-file: ".github/workflows/.release-please-manifest.json"
-          config-file: ".github/workflows/release-please-config.json"
