@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.7](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.6...v0.1.7) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 removed ',' for valid json syntax. ([c61f010](https://github.com/elmargrote/github-actions-course-template/commit/c61f0105c258f61e6daab2ef588b300a67278441))
+* ADMIMIN-4321 removed changelog-path, draft and prerelease becuase we use defaults. ([2a0a67e](https://github.com/elmargrote/github-actions-course-template/commit/2a0a67e37f1b639f8f9a01b675b28b2d9ccc2267))
+
 ## [0.1.6](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.5...v0.1.6) (2024-06-04)
 
 
