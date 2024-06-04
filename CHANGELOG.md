@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.3...v0.1.4) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIN-4321 Change resource to es ([308e823](https://github.com/elmargrote/github-actions-course-template/commit/308e8237038c319f3e8eb4966022690b77f6a1c2))
+
 ## [0.1.3](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.2...v0.1.3) (2024-06-04)
 
 
