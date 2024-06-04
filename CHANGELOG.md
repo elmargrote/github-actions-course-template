@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.9](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.8...v0.1.9) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 added if parameter to action. ([70b1254](https://github.com/elmargrote/github-actions-course-template/commit/70b12545ccab78e7c8431ee3454881905ce52686))
+
 ## [0.1.8](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.7...v0.1.8) (2024-06-04)
 
 
