@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.7...v0.1.8) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 test for changed path of config file. ([bc7fc9e](https://github.com/elmargrote/github-actions-course-template/commit/bc7fc9e80dc4b4626f4b0f36ff5fb7f7aae9bbea))
+
 ## [0.1.7](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.6...v0.1.7) (2024-06-04)
 
 
