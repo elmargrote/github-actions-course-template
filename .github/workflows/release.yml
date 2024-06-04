@@ -23,8 +23,4 @@ jobs:
       - name: release-please
         uses: google-github-actions/release-please-action@v4
         with:
-          # Multiple release types are supported, check github action for others
-          release-type: simple
-          bump-minor-pre-major: true
-          bump-patch-for-minor-pre-major: true
           token: ${{ secrets.GITHUB_TOKEN }}
