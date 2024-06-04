@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.11](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.10...v0.1.11) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 changed to en ([9d07a8f](https://github.com/elmargrote/github-actions-course-template/commit/9d07a8f4b451f917ec55dc05f4944e6feeae3573))
+* ADMIMIN-4321 moved with to default path and removed with option. ([bd495d5](https://github.com/elmargrote/github-actions-course-template/commit/bd495d5e3e33ccc89e3a9af8b651095e1224f777))
+* ADMIMIN-4321 moved with to default path and removed with option. ([4a2c2e0](https://github.com/elmargrote/github-actions-course-template/commit/4a2c2e05d033807389ea8ed52106b3df641752c1))
+
 ## [0.1.10](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.9...v0.1.10) (2024-06-04)
 
 
