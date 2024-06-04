@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.4...v0.1.5) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIN-4321 switched to v4 ([8a8bb34](https://github.com/elmargrote/github-actions-course-template/commit/8a8bb340fde642252f83565036767c1dd05d3af0))
+
 ## [0.1.4](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.3...v0.1.4) (2024-06-04)
 
 
