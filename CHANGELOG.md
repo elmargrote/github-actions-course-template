@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.13](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.12...v0.1.13) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIMIN-4321 test again in github folder. ([48c0552](https://github.com/elmargrote/github-actions-course-template/commit/48c05521a7b5a518294b17ccdf27f0cfd91323f1))
+* ADMIMIN-4321 test again in github folder. ([de9bbc4](https://github.com/elmargrote/github-actions-course-template/commit/de9bbc4babefee9d4abfa24d2f1610de30a8c133))
+* ADMIMIN-4321 test again in workflows. ([a971798](https://github.com/elmargrote/github-actions-course-template/commit/a971798d3683afddf9c5087da32143e51fe8665e))
+
 ## [0.1.12](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.11...v0.1.12) (2024-06-04)
 
 
