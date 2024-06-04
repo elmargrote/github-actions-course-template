@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.6](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.5...v0.1.6) (2024-06-04)
+
+
+### Bug Fixes
+
+* ADMIN-4321 added schema ([d8e56fc](https://github.com/elmargrote/github-actions-course-template/commit/d8e56fc6b3091d06e3d1fcb635f3cde25f3417ad))
+* ADMIN-4321 changed google-github-actions/release-please-action to googleapis/release-please-action ([c5c84bc](https://github.com/elmargrote/github-actions-course-template/commit/c5c84bc6e290373daa1af1238d2a2c428e49cdaa))
+* ADMIN-4321 created .release-please-manifest.json ([bf10091](https://github.com/elmargrote/github-actions-course-template/commit/bf100915115502391a4049925500b7a4df27a5de))
+* ADMIN-4321 created release-please-config.json ([d7139c7](https://github.com/elmargrote/github-actions-course-template/commit/d7139c72cc8cccf32dd383b2b97517c23ec1ccf9))
+* ADMIN-4321 created release-please-config.json v2 ([878ae0f](https://github.com/elmargrote/github-actions-course-template/commit/878ae0fc3e2cda52a3dbeb98bda3cbb8c9bec38d))
+* ADMIN-4321 edited .release-please-manifest.json ([dc7a7fa](https://github.com/elmargrote/github-actions-course-template/commit/dc7a7fa67c9f7570ce6e7c88d3338bdc5cc44327))
+* ADMIN-4321 new .release-please-manifest.json release-please-config.json ([689292b](https://github.com/elmargrote/github-actions-course-template/commit/689292b4bf1d65c1f7a080d197b169db6db138ed))
+* ADMIN-4321 removed .release-please-manifest.json release-please-config.json ([e78d026](https://github.com/elmargrote/github-actions-course-template/commit/e78d0265d8eb003cfa04b00f0d9eba48787dfe46))
+* ADMIN-4321 set version to 0.1.5 in .release-please-manifest.json ([05889dd](https://github.com/elmargrote/github-actions-course-template/commit/05889ddadcab6fc101f98dca84b912a1321846a5))
+* ADMIN-4321 set version to v0.1.5 in .release-please-manifest.json ([46e49b4](https://github.com/elmargrote/github-actions-course-template/commit/46e49b4804302968dce34767a3c5e29f3be0aa16))
+
 ## [0.1.5](https://github.com/elmargrote/github-actions-course-template/compare/v0.1.4...v0.1.5) (2024-06-04)
 
 
